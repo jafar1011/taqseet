@@ -1,0 +1,20 @@
+c:\users\perfect solutions\documents\visual studio 2010\Projects\taqseet\taqseet\bin\Debug\taqseet.exe
+c:\users\perfect solutions\documents\visual studio 2010\Projects\taqseet\taqseet\bin\Debug\taqseet.pdb
+c:\users\perfect solutions\documents\visual studio 2010\Projects\taqseet\taqseet\obj\x86\Debug\taqseet.Form1.resources
+c:\users\perfect solutions\documents\visual studio 2010\Projects\taqseet\taqseet\obj\x86\Debug\taqseet.Properties.Resources.resources
+c:\users\perfect solutions\documents\visual studio 2010\Projects\taqseet\taqseet\obj\x86\Debug\taqseet.csproj.GenerateResource.Cache
+c:\users\perfect solutions\documents\visual studio 2010\Projects\taqseet\taqseet\obj\x86\Debug\taqseet.exe
+c:\users\perfect solutions\documents\visual studio 2010\Projects\taqseet\taqseet\obj\x86\Debug\taqseet.pdb
+C:\Users\Perfect Solutions\documents\visual studio 2010\Projects\taqseet\taqseet\obj\x86\Debug\taqseet.csprojResolveAssemblyReference.cache
+D:\c# 3 projects\taqseet\taqseet\obj\x86\Debug\taqseet.exe
+D:\c# 3 projects\taqseet\taqseet\obj\x86\Debug\taqseet.pdb
+D:\c# 3 projects\taqseet\taqseet\bin\Debug\taqseet.exe
+D:\c# 3 projects\taqseet\taqseet\bin\Debug\taqseet.pdb
+D:\c# 3 projects\taqseet\taqseet\obj\x86\Debug\taqseet.csprojResolveAssemblyReference.cache
+D:\c# 3 projects\taqseet\taqseet\obj\x86\Debug\taqseet.Form1.resources
+D:\c# 3 projects\taqseet\taqseet\obj\x86\Debug\taqseet.Properties.Resources.resources
+D:\c# 3 projects\taqseet\taqseet\obj\x86\Debug\taqseet.csproj.GenerateResource.Cache
+D:\c# 3 projects\taqseet\taqseet\bin\Debug\itextsharp.dll
+D:\c# 3 projects\taqseet\taqseet\bin\Debug\BouncyCastle.Crypto.dll
+D:\c# 3 projects\taqseet\taqseet\bin\Debug\ArabicSupport.dll
+D:\c# 3 projects\taqseet\taqseet\bin\Debug\pdfiumviewer.dll
